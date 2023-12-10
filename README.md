@@ -1,14 +1,15 @@
 # Welcome! 
 
-I am a people person first. As the social chair of Princeton's class of 2025 and as a Resident Advisor, I strive to build community with the people around me. 
-
-I am also interested in answering questions in Ecomonics, Sociology, and Business by leveraging Natural Language Processing techniques.
-
 ## About Me
 
 - 🎓 **Education:** Junior at Princeton University, majoring in Computer Science.
 - 💻 **Passion:** Aspiring Data Scientist with a keen interest in extracting meaningful insights from data.
 - 🌱 **Learning:** Always exploring new technologies and methodologies to enhance my skills.
+
+
+I am a people person first. As the social chair of Princeton's class of 2025 and as a Resident Advisor, I strive to build community with the people around me. 
+
+I am also interested in answering questions in Ecomonics, Sociology, and Business by leveraging Natural Language Processing techniques.
 
 ## What Excites Me
 
