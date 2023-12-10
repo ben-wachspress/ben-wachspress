@@ -1,0 +1,24 @@
+# Hi there! 👋
+
+I'm Ben Wachspress, a Junior studying computer science at Princeton University. 🐅 Currently diving deep into the world of algorithms, data structures, and all things computer science-related. 🚀
+
+## About Me
+
+- 🎓 **Education:** Junior at Princeton University, majoring in Computer Science.
+- 💻 **Passion:** Aspiring Data Scientist with a keen interest in extracting meaningful insights from data.
+- 🌱 **Learning:** Always exploring new technologies and methodologies to enhance my skills.
+
+## What Excites Me
+
+I'm passionate about data science and the endless possibilities it offers to unravel patterns, make predictions, and derive insights. From coding algorithms to building predictive models, I love turning raw data into actionable information.
+
+Feel free to explore my repositories to see my code and projects!
+
+## Let's Connect
+
+I'm always open to collaborations, discussions, and learning from the community. If you share similar interests or have any questions, feel free to reach out.
+
+- 📧 Email: [bjw6@princeton.edu](mailto:bjw6@princeton.edu)
+- 💼 LinkedIn: [Ben Wachspress](https://www.linkedin.com/in/benwachspress/)
+
+Looking forward to connecting with fellow developers, data enthusiasts, and anyone passionate about the exciting world of technology!
