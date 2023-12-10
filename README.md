@@ -1,8 +1,8 @@
 # Welcome! 
 
-I'm Ben Wachspress, a Junior studying computer science at Princeton University. 🐅 
+I am a people person first. As the social chair of Princeton's class of 2025 and as a Resident Advisor, I strive to build community with the people around me. 
 
-I am a people person first. As the social chair of Princeton's class of 2025 and as a Resident Advisor, I strive to build community with the people around me. 🚀
+I am also interested in answering questions in Ecomonics, Sociology, and Business by leveraging Natural Language Processing techniques.
 
 ## About Me
 
