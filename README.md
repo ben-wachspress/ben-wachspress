@@ -1,4 +1,4 @@
-# Hello! 
+# Welcome! 
 
 I'm Ben Wachspress, a Junior studying computer science at Princeton University. 🐅 Currently diving deep into the world of algorithms, data structures, and all things computer science-related. 🚀
 
